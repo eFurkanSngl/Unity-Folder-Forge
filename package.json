@@ -1,0 +1,10 @@
+{
+  "name": "com.efurkansngl.unity-folder-forge",
+  "version": "1.0.0",
+  "displayName": "Unity Folder Forge",
+  "description": "Unity Editor window for creating parent folders with configurable subfolders.",
+  "unity": "2021.3",
+  "author": {
+    "name": "eFurkanSngl"
+  }
+}
