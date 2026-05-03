@@ -2,6 +2,10 @@
 
 Unity Editor icinde hizli klasor yapisi olusturmak icin basit bir Tools paneli.
 
+## Demo
+
+[Demo videosunu izle](media/demo.mp4)
+
 ## Ozellikler
 
 - `Tools > Unity Folder Forge` menusunden acilir.
@@ -22,7 +26,11 @@ Assets/UnityFolderForge
 
 ### Unity Package Manager ile ekleme
 
-GitHub repo URL'sini Unity Package Manager'da `Add package from git URL` secenegiyle ekleyebilirsin.
+Unity Package Manager'da `Add package from git URL` secenegiyle ekleyebilirsin.
+
+```text
+https://github.com/eFurkanSngl/Unity-Folder-Forge.git
+```
 
 ## Kullanim
 
